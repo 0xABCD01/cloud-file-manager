@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+*.egg
+
+# Virtual env
+venv/
+.venv/
+
+# Keys (NEVER commit)
+keys/
+*.pem
+
+# Environment
+.env
+.env.local
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.turbo/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Test databases
+*.db
