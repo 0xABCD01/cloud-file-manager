@@ -4,7 +4,7 @@
 
 If you find a security issue, **do not open a public GitHub issue.**
 
-Email me at: `security@cloudvault.dev` (or DM me on GitHub: [@0xABCD01](https://github.com/0xABCD01))
+Email me at: `security@cloudvault.dev`
 
 I'll acknowledge within 48 hours and aim to ship a fix within 7 days for critical issues.
 
